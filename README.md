@@ -10,5 +10,5 @@ Organization is as follows:
 
 ## Instructions for running code 
 1. 2D-App: 
-  * [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mahmed271995/Static-Rod-Model-Codes-and-SImulink-Model&file=/2D-App/code_2D.mlapp) or open 2D.mlapp on Matlab
+  * [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mahmed271995/Static-Rod-Model-Codes-and-SImulink-Model&file=/2D-App/code2D.mlapp) or open code2D.mlapp on Matlab
   * 
