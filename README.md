@@ -9,7 +9,11 @@ Organization is as follows:
 3. Simulink Model: Simulink model for solving the 2D static equilibrium equations as a two-step initial value problem
 
 ## Instructions for running code 
-1. 2D-App: 
-  * [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mahmed271995/Static-Rod-Model-Codes-and-SImulink-Model&file=/2D-App/code2D.mlapp) or open code2D.mlapp on Matlab
-  * Hit Run (if required)
-  * Define the material properties (Young's Modulus, $E$; Moment of inertia, $I$; and Length, $L$ as positive real numbers $\mathbb{R}_{>0}$) and external loads (Moment, $M$; Distributed Load, $F_1$; and tip Force, $f_i$)
+1. 2D-App:
+ * [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mahmed271995/Static-Rod-Model-Codes-and-SImulink-Model&file=/2D-App/code2D.mlapp) or open code2D.mlapp on Matlab
+ * Hit Run (if required)
+ * Define the material properties (Young's Modulus, $E$; Moment of inertia, $I$; and Length, $L$ as positive real numbers $\mathbb{R}_{>0}$) and external loads (Moment, $M$; Distributed Load, $F_1$; and tip Force, $f_i$)
+ * Hit Run Simulation to display deformed centerline shape of the filament with small defletion theory and nonlinear theory, Hit Reset to return to see loading convention
+
+2. 3D-App:
+ * [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mahmed271995/Static-Rod-Model-Codes-and-SImulink-Model&file=/3D-App/code3D.mlapp) or open code3D.mlapp on Matlab
