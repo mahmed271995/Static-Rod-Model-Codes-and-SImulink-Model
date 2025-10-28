@@ -19,12 +19,16 @@ Organization is as follows:
 
 2. 2D-App-Advance:
   * [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mahmed271995/Static-Rod-Model-Codes-and-SImulink-Model&file=/2D-App-Advance/code2D_advance.mlapp)
+  * Hit Run (if required)
+  * The \textbf{Material} definition panel allows users to manually enter material properties such as Young’s modulus $E$ and beam length $L$, or to select a material from the drop-down menu, which automatically populates the corresponding Young’s modulus value
+
 3. 3D-App:
  * [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mahmed271995/Static-Rod-Model-Codes-and-SImulink-Model&file=/3D-App/code3D.mlapp) or open code3D.mlapp on Matlab
  * Hit Run (if required)
  * Define the material properties (Length, $L$ as positive real number: $\mathbb{R} > 0$; and Stiffness Matrix, $S$ as positive definite: $x^T S x > 0, \quad \forall x \neq 0$) and external loads (Moment, $M_i$; tip Force, $f_i$; Distributed Load, $F_i$; and Distributed Moment, $Q_i$)
  * Hit Run Simulation to display deformed centerline shape of the filament for nonlinear theory
  * Hit Reset to return to see loading convention
+
 
 
 
