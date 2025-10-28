@@ -25,12 +25,12 @@ Organization is as follows:
   * In the **Loading configuration** panel input different types of loading conditions: shear load $f_1$, compressive load $f_3$, distributed load $F_1$, and bending moment $M$
   * Hit **Run Simulation**: users can visualize the beam’s deflection, shear force, and bending moment diagrams for both linear and nonlinear cases
   * Additional features in the app are:
-   - The GUI automatically identifies and highlights the points along the beam corresponding to the absolute maximum deflection, shear force, and bending moment
-   - The user can change unit systems to the International System of Units (SI) denoted as MKS, the Imperial system (IPS), and the CGS system
-   - Users can **Reset Plots**, **Clear Fields**, and **Save Plots** buttons. The generated plots can be saved in .jpg or .png format after running the simulations
-   - Users can toggle the beam’s deformed shape between an exaggerated (default) or true-scale deformation using the **Deformation** toggle switch
-   - Users can display or hide shear force arrows for both linear and nonlinear cases using the **Shear Arrow** toggle switch
-   - Users can perform sensitivity analysis by vary the applied load via the sliders under the load values and observe its real-time effect
+    - The GUI automatically identifies and highlights the points along the beam corresponding to the absolute maximum deflection, shear force, and bending moment
+    - The user can change unit systems to the International System of Units (SI) denoted as MKS, the Imperial system (IPS), and the CGS system
+    - Users can **Reset Plots**, **Clear Fields**, and **Save Plots** buttons. The generated plots can be saved in .jpg or .png format after running the simulations
+    - Users can toggle the beam’s deformed shape between an exaggerated (default) or true-scale deformation using the **Deformation** toggle switch
+    - Users can display or hide shear force arrows for both linear and nonlinear cases using the **Shear Arrow** toggle switch
+    - Users can perform sensitivity analysis by vary the applied load via the sliders under the load values and observe its real-time effect
 
 3. 3D-App:
  * [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mahmed271995/Static-Rod-Model-Codes-and-SImulink-Model&file=/3D-App/code3D.mlapp) or open code3D.mlapp on Matlab
@@ -38,6 +38,7 @@ Organization is as follows:
  * Define the material properties (Length, $L$ as positive real number: $\mathbb{R} > 0$; and Stiffness Matrix, $S$ as positive definite: $x^T S x > 0, \quad \forall x \neq 0$) and external loads (Moment, $M_i$; tip Force, $f_i$; Distributed Load, $F_i$; and Distributed Moment, $Q_i$)
  * Hit Run Simulation to display deformed centerline shape of the filament for nonlinear theory
  * Hit Reset to return to see loading convention
+
 
 
 
