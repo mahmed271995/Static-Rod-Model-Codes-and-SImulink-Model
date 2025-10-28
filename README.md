@@ -20,7 +20,15 @@ Organization is as follows:
 2. 2D-App-Advance:
   * [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mahmed271995/Static-Rod-Model-Codes-and-SImulink-Model&file=/2D-App-Advance/code2D_advance.mlapp)
   * Hit Run (if required)
-  * The \textbf{Material} definition panel allows users to manually enter material properties such as Young’s modulus $E$ and beam length $L$, or to select a material from the drop-down menu, which automatically populates the corresponding Young’s modulus value
+  * The **Material** definition panel allows users to manually enter material properties such as Young’s modulus $E$ and beam length $L$, or to select a material from the drop-down menu, which automatically populates the corresponding Young’s modulus value
+  * The **Cross-sectional** definition panel enables users to input the second moment of area (area moment of inertia) $I$ directly, or select a cross-sectional shape from the drop-down list and provide its characteristic dimension(s) to automatically compute $I$
+  * The **Loading configuration** panel allows the user to input different types of loading conditions: shear load $f_1$, compressive load $f_3$, distributed load $F_1$, and bending moment $M$
+  * Users can generate plots by selecting **Run Simulation**. Users can visualize the beam’s deflection, shear force, and bending moment diagrams for both linear and nonlinear cases. The GUI automatically identifies and highlights the points along the beam corresponding to the absolute maximum deflection, shear force, and bending moment
+  * The user can change unit systems to the International System of Units (SI) denoted as MKS, the Imperial system (IPS), and the CGS system
+  * Additional control is provided through the **Reset Plots**, **Clear Fields**, and **Save Plots** buttons. The generated plots can be saved in \textbf{.jpg} or \textbf{.png} format after running the simulations
+  * Users can toggle the beam’s deformed shape between an exaggerated (default) or true-scale deformation using the **Deformation** toggle switch
+  * Users can display or hide shear force arrows for both linear and nonlinear cases using the **Shear Arrow** toggle switch
+  * Users can perform sensitivity analysis by vary the applied load via the sliders under the load values and observe its real-time effect
 
 3. 3D-App:
  * [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mahmed271995/Static-Rod-Model-Codes-and-SImulink-Model&file=/3D-App/code3D.mlapp) or open code3D.mlapp on Matlab
@@ -28,6 +36,7 @@ Organization is as follows:
  * Define the material properties (Length, $L$ as positive real number: $\mathbb{R} > 0$; and Stiffness Matrix, $S$ as positive definite: $x^T S x > 0, \quad \forall x \neq 0$) and external loads (Moment, $M_i$; tip Force, $f_i$; Distributed Load, $F_i$; and Distributed Moment, $Q_i$)
  * Hit Run Simulation to display deformed centerline shape of the filament for nonlinear theory
  * Hit Reset to return to see loading convention
+
 
 
 
