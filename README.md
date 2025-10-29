@@ -1,7 +1,7 @@
 # Static Rod Model
 
 This repository contains the MATLAB codes for the publications:  
-"AN INTERACTIVE GUI FOR EXPLORING CANTILEVER BENDING THROUGH NONLINEAR ROD THEORY", by Muhammad Hassaan Ahmed, Utkarsh Srivastava, Ranjan Das and Sachin Goyal, 2025, ASME IDETC.CIE2025. See [link](https://www.overleaf.com/project/67ce9f1a3f2d0bb77e847257) for text.
+"AN INTERACTIVE GUI FOR EXPLORING CANTILEVER BENDING THROUGH NONLINEAR ROD THEORY", by Muhammad Hassaan Ahmed, Utkarsh Srivastava, Ranjan Das and Sachin Goyal, 2025, ASME IDETC.CIE2025. See [link](https://www.overleaf.com/read/fhcmjmqwkwdt#8ad106) for text.
 
 Organization is as follows:
 1. 2D-App: Static rod model app code for planer deformation
@@ -43,6 +43,7 @@ git clone https://github.com/utkarshdrh/Static-Rod-Model-Codes-and-SImulink-Mode
   * Define the material properties (Length, $L$ as positive real number: $\mathbb{R} > 0$; and Stiffness Matrix, $S$ as positive definite: $x^T S x > 0, \quad \forall x \neq 0$) and external loads (Moment, $M_i$; tip Force, $f_i$; Distributed Load, $F_i$; and Distributed Moment, $Q_i$)
   * Hit **Run Simulation** to display deformed centerline shape of the filament for nonlinear theory
   * Hit **Reset** to return to see loading convention
+
 
 
 
