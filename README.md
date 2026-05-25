@@ -49,5 +49,6 @@ git clone https://github.com/utkarshdrh/Static-Rod-Model-Codes-and-SImulink-Mode
 ## Citation
 
 If you use this code in your research, please cite the following paper:
-Ahmed, M. H., Srivastava, U., Das, R., and Goyal, S. (May 25, 2026). "Interactive Visualization of Nonlinear Cantilever Bending Using a Rod Theory-Based Graphical User Interface." ASME. J. Comput. Nonlinear Dynam. July 2026; 21(7): 071005. [https://doi.org/10.1115/1.4071926](https://doi.org/10.1115/1.4071926)
+
+Ahmed, M. H., Srivastava, U., Das, R., and Goyal, S. (May 25, 2026). "Interactive Visualization of Nonlinear Cantilever Bending Using a Rod Theory-Based Graphical User Interface." ASME. J. Comput. Nonlinear Dynam. July 2026; **21**(7): 071005. [https://doi.org/10.1115/1.4071926](https://doi.org/10.1115/1.4071926)
 
