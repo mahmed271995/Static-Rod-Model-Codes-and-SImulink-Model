@@ -1,7 +1,8 @@
 # Static Rod Model
 
-This repository contains the MATLAB codes for the publications:  
-"AN INTERACTIVE GUI FOR EXPLORING CANTILEVER BENDING THROUGH NONLINEAR ROD THEORY", by Muhammad Hassaan Ahmed, Utkarsh Srivastava, Ranjan Das and Sachin Goyal, 2025, ASME IDETC.CIE2025. See [link](https://www.overleaf.com/read/fhcmjmqwkwdt#8ad106) for text.
+This repository contains the MATLAB codes for the following publications:  
+1. Ahmed M.H., Srivastava U., Das R., Goyal S., “AN INTERACTIVE GUI FOR EXPLORING CANTILEVER BENDING THROUGH NONLINEAR ROD THEORY.” ASME IDETC.CIE2025. (Withdrawn)
+2. Ahmed, M. H., Srivastava, U., Das, R., and Goyal, S. (May 25, 2026). "Interactive Visualization of Nonlinear Cantilever Bending Using a Rod Theory-Based Graphical User Interface." ASME. J. Comput. Nonlinear Dynam. July 2026; 21(7): 071005. [https://doi.org/10.1115/1.4071926](https://doi.org/10.1115/1.4071926)
 
 Organization is as follows:
 1. 2D-App: Static rod model app code for planer deformation
@@ -45,24 +46,8 @@ git clone https://github.com/utkarshdrh/Static-Rod-Model-Codes-and-SImulink-Mode
   * Hit **Reset** to return to see loading convention
 
 
+## Citation
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+If you use this code in your research, please cite the following paper:
+Ahmed, M. H., Srivastava, U., Das, R., and Goyal, S. (May 25, 2026). "Interactive Visualization of Nonlinear Cantilever Bending Using a Rod Theory-Based Graphical User Interface." ASME. J. Comput. Nonlinear Dynam. July 2026; 21(7): 071005. [https://doi.org/10.1115/1.4071926](https://doi.org/10.1115/1.4071926)
 
