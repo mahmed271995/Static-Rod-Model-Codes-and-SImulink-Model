@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+
+message: "If you use this code, please cite the associated article."
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Ahmed
+      given-names: Muhammad Hassaan
+    - family-names: Srivastava
+      given-names: Utkarsh
+    - family-names: Das
+      given-names: Ranjan
+    - family-names: Goyal
+      given-names: Sachin
+
+  title: "Interactive Visualization of Nonlinear Cantilever Bending Using a Rod Theory-Based Graphical User Interface"
+  journal: "Journal of Computational and Nonlinear Dynamics"
+  
+  year: 2026
+  month: 7
+  volume: 21
+  issue: 7
+  article-number: 071005
+  doi: 10.1115/1.4071926
